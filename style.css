@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    color: #34465c;
+}
+
+* {
+    border-radius: 0%;
+}
+
+header {
+    height: 100vh;
+}
+
+.bg-lightgrey {
+    background-color: #262626;
+}
+
+.bg-darkgrey {
+    background-color: #222222;
+}
+
+.bg-l {
+    background-color: #F1F6F5 !important;
+}
+
+
+@media (max-width: 576px) {
+    .text-sm-center{
+        text-align: center !important;
+    }
+}
